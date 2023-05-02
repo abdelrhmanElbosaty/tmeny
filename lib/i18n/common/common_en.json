@@ -1,0 +1,45 @@
+{
+  "tryAgain": "Try again",
+  "networkError": "Network Error",
+  "serverError" : "Failed , check internet connection and try again.",
+  "unexpectedError" : "Unexpected Error",
+  "somethingWentWrong" : "Something went wrong, try again later",
+  "noValuesError" : "There are no values to select from",
+  "noInternetConnection" : "You are currently offline",
+  "hasInternetConnection" : "Your internet connection has restored",
+  "otpBlocked" : "You have exceeded the number of resend attempts, try again after",
+
+
+  "sinceDate" : "Since",
+  "justNow" : "Just Now",
+  "day": "Day",
+  "week" : "Week",
+  "minute" : "Minute",
+  "hour" : "Hour",
+
+  "emailVerification" : "Email Verification",
+  "changePassword" : "Change Password",
+  "codeThatWasSent": "Enter the verification code sent to your Email",
+  "resendVerificationCode": "Resend verification code",
+  "inCorrectOTPMessage": "The code you have entered is incorrect. Please resend the verification code. ",
+  "yourPasswordChanged": "Your password has changed.",
+
+  "previewImage" : "Preview image",
+  "noImageFound" : "No image found",
+  "success": "Success!",
+  "changeLanguage": "Change Language!",
+  "logOut": "Log Out",
+
+  "next": "Next",
+  "skip" : "Skip",
+  "verify" : "Verify",
+  "done": "Done",
+  "continue" : "Continue",
+  "confirm": "Confirm",
+  "remove": "Remove",
+  "addLink": "Add link",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "deleteAccount": "Delete Account",
+  "send": "Send"
+}
